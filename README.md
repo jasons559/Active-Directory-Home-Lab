@@ -74,7 +74,30 @@ DNS was essential for enabling domain authentication, and allowing the client ma
 </ul>
 This allowed centralized user authentication, and demonstrated typical enterprise worktation configuration
 
+<h2>Group Policy Implementation</h2>
 
+<p>Security and system management policies were implemented using Group Policy</p>
+<p><b>Policies configured in this lab include:</b></p>
+<p><b>Password Policy</b></p>
+<ul>
+<li>Minimun password length</li>
+<li>Password complexity requirements</li>
+<li>Password history enforcement</li>
+<li>Password expiration configuration</li>
+ </ul>
+<p><b>Account Lockout Policy</b></p>
+<ul>
+<li>Lockout threshold after failed login attempts</li>
+<li>Automatic unlock duration</li> 
+<li>Lockout counter reset timing</li> 
+</ul>
+
+<p><b>Device Security Policy</b></p>
+<ul>
+<li>Disabled removable USB storage devices, through Group Policy</li> 
+</ul>
+Policies were tested on domain-joined client using:"gpupdate /force"
+This demonstrates centralized security policy enforcement across domain-joined machines
 
 <br />
 
