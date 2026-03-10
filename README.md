@@ -31,7 +31,7 @@ The environment includes a domain controller running Windows Server and a domain
 <h2>Domain Controller Setup</h2>
 
 <p>A Domain Controller was deployed using Windows Server and configured to host an Active Directory domain.</p>
-<p><b>Key Steps Included</b></p>
+<p><b>Key Steps Included:</b></p>
 <ul>
 <li>Installing the Active Directory Domain Services (AD DS) role</li>
 <li>Promoting the server to a Domain Controller</li>
@@ -39,7 +39,7 @@ The environment includes a domain controller running Windows Server and a domain
 <li>Configuring server networking with a static IP address</li>
 <li>Renaming the server to DC01</li>
  </ul>
-Creating Organizational Units (OUs) for departments such as:
+<p><b>Creating Organizational Units (OUs) for departments such as:</b></p>
 <ul>
  <li>IT</li>
  <li>HR</li>
@@ -48,6 +48,22 @@ Creating Organizational Units (OUs) for departments such as:
   <li>Configuring shared folders for departmental file access</li>
  </ul>
 This setup created the centralized authentication infrastructure for the lab environment.
+
+<h2>DNS Configuration</h2>
+
+<p>Internal name resolution was configured using the Domain Name System service running on the Domain Controller.</p>
+<p><b>Key Configurations Included:</b></p>
+<ul>
+<li>Configuring the domain DNS zone for corp.local</li>
+<li>Verifying name resolution using tools such as:</li>
+<li>ping</li>
+<li>nslookup</li>
+<li>Configuring the Windows client machine to use the Domain Controller as its preferred DNS Server</li>
+</ul>
+DNS was essential for enabling domain authentication, and allowing the client machine to locate domain services.
+
+
+
 
 
 
