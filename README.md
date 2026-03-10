@@ -24,40 +24,41 @@
 
 - <b>UTM Virtual Machine</b> 
 - <b>VMware Fusion</b>
+- <b>Macbook Pro M4</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11,
-- </b> Windows Server 2025
+- <b>Windows 11,</b>
+- <b> Windows Server 2025</b>
 
-<h2>Program walk-through:</h2>
+<h2>Screenshots</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Overview: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Network Architecture:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Domain Controller Setup: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+DNS Configuration:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Windows Client Domain Join:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Group Policy Implementation:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Troubleshooting Proccess:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
