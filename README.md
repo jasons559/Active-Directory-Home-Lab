@@ -4,7 +4,7 @@
 <h2>Description</h2>
 
 <p>This project demonstrates the deployment and administration of a virtual enterprise network environment using Windows Server and Active Directory. The objective of the lab was to simulate a corporate IT infrastructure, by configuring a domain controller, implementing centralized authentication, managing users and organizational units, and applying security policies through Group Policy.
-The environment includes a domain controller running Windows Server and a domain-joined client machine running Windows 11 Pro. The lab demonstrates core system administration tasks such as domain configuration, DNS management, user administration, security policy enforcement, and troubleshooting domain connectivity issues.</p>
+The environment includes a domain controller running Windows Server, and a domain-joined client machine running Windows 11 Pro. This lab demonstrates core system administration tasks such as:domain configuration, DNS management, user administration, security policy enforcement, and troubleshooting domain connectivity issues.</p>
 
 <h2>Network Architecture</h2>
 <p>The lab environment was built using virtual machines running on an Apple Silicon MacBook Pro. The network was configured to simulate an internal enterprise LAN environment with static IP addressing and internal DNS resolution.</p>
@@ -25,11 +25,11 @@ The environment includes a domain controller running Windows Server and a domain
  <li>Client IP: 192.168.64.10</li>
  <li>Internal DNS handled by the Domain Controller</li>
 </ul>
-<p>The environment simulates a simplified enterprise network where authentication and policy enforcement are centralized through Active Directory.</p>
+<p>The environment simulates a simplified enterprise network, where authentication and policy enforcement are centralized through Active Directory.</p>
 
 <h2>Domain Controller Setup</h2>
 
-<p>A Domain Controller was deployed using Windows Server and configured to host an Active Directory domain.</p>
+<p>A Domain Controller was deployed using Windows Server, and configured to host an Active Directory domain.</p>
 <p><b>Key Steps Included:</b></p>
 <ul>
 <li>Installing the Active Directory Domain Services (AD DS) role</li>
@@ -38,11 +38,11 @@ The environment includes a domain controller running Windows Server and a domain
 <li>Configuring server networking with a static IP address</li>
 <li>Renaming the server to DC01</li>
  </ul>
-<p><b>Creating Organizational Units (OUs) for departments such as:</b></p>
+<p><b>Creating Organizational Units,(OUs) for departments such as:</b></p>
 <ul>
- <li>IT</li>
- <li>HR</li>
- <li>Sales</li>
+<li>IT</li>
+<li>HR</li>
+<li>Sales</li>
  <li>Creating domain user accounts and administrative accounts</li>
   <li>Configuring shared folders for departmental file access</li>
  </ul>
@@ -63,7 +63,7 @@ DNS was essential for enabling domain authentication, and allowing the client ma
 
 <h2>Windows Client Domain Join</h2>
 
-<p>A client system running Windows 11 Pro was deployed and joined to the corp.local domain</p>
+<p>A client system running Windows 11 Pro was deployed, and joined to the corp.local domain</p>
 <p><b>Steps Include:</b></p>
 <ul>
 <li>Installing Windows 11 Pro in a virtual machine</li>
@@ -112,7 +112,7 @@ This demonstrates centralized security policy enforcement across domain-joined m
 <li>Resolving issues caused by Windows Home edition lacking domain join capabilities</li> 
 <li>Validating Group Policy application on client systems</li> 
 </ul>
-This troubleshooting Process provided hands on experience, with real-world system administration challenges commonly encountered in enterprise environments
+This troubleshooting process provided hands on experience, with real-world system administration challenges, commonly encountered in enterprise environments.
 
 <p><b>Skills Demonstrated:</b></p>
 <ul>
@@ -124,7 +124,6 @@ This troubleshooting Process provided hands on experience, with real-world syste
 <li>Enterprise network troubleshooting</li> 
 <li>Identity and access management</li> 
 </ul>
-
 
 <br />
 
