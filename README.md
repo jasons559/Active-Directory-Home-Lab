@@ -3,7 +3,6 @@
 
 <h2>Description</h2>
 
-<b>Overview:</b>
 <p>This project demonstrates the deployment and administration of a virtual enterprise network environment using Windows Server and Active Directory. The objective of the lab was to simulate a corporate IT infrastructure by configuring a domain controller, implementing centralized authentication, managing users and organizational units, and applying security policies through Group Policy.
 The environment includes a domain controller running Windows Server and a domain-joined client machine running Windows 11 Pro. The lab demonstrates core system administration tasks such as domain configuration, DNS management, user administration, security policy enforcement, and troubleshooting domain connectivity issues.</p>
 
@@ -62,8 +61,18 @@ This setup created the centralized authentication infrastructure for the lab env
 </ul>
 DNS was essential for enabling domain authentication, and allowing the client machine to locate domain services.
 
+<h2>Windows Client Domain Join</h2>
 
-
+<p>A client system running Windows 11 Pro was deployed and joined to the corp.local domain</p>
+<p><b>Steps Include:</b></p>
+<ul>
+<li>Installing Windows 11 Pro in a virtual machine</li>
+<li>Configuring network settings to use the Domain Controller DNS Server</li>
+<li>Verifying the connectivity to DCO1</li>
+<li>Joining the system to the Active Directory Domain</li>
+<li>Loggin in using domain creditials</li>
+</ul>
+This allowed centralized user authentication, and demonstrated typical enterprise worktation configuration
 
 
 
