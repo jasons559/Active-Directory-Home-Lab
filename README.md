@@ -80,7 +80,7 @@ This allowed centralized user authentication, and demonstrated typical enterpris
 <p><b>Policies configured in this lab include:</b></p>
 <p><b>Password Policy</b></p>
 <ul>
-<li>Minimun password length</li>
+<li>Minimum password length</li>
 <li>Password complexity requirements</li>
 <li>Password history enforcement</li>
 <li>Password expiration configuration</li>
