@@ -99,6 +99,33 @@ This allowed centralized user authentication, and demonstrated typical enterpris
 Policies were tested on domain-joined client using:"gpupdate /force"
 This demonstrates centralized security policy enforcement across domain-joined machines
 
+<h2>Troubleshooting Process</h2>
+<p>During the implementation of this lab, I encountered, and resolved several technical challenges. Troubleshooting involved analyzing network connectivity, domain authentication failures, DNS resolution issues, and virtualization networking configurations.</p>
+
+<p><b>Key Troubleshooting activities include:</b></p>
+<ul>
+<li>Diagnosing DNS resolution failures using ping, and nslookup</li>
+<li>Resolving domain join failures</li>
+<li>Password history enforcement</li>
+<li>Addressing virtualization networking limitations between hypervisors</li>
+<li>Reconfiguring static IP addressing</li>
+<li>Resolving issues caused by Windows Home edition lacking domain join capabilities</li> 
+<li>Validating Group Policy application on client systems</li> 
+</ul>
+This troubleshooting Process provided hands on experience, with real-world system administration challenges commonly encountered in enterprise environments
+
+<p><b>Skills Demonstrated:</b></p>
+<ul>
+<li>Active Directory Administration</li>
+<li>Domain Controller deployment</li>
+<li>DNS configuration and troubleshooting</li>
+<li>Group Policy Management</li>
+<li>Windows Server administration</li>
+<li>Enterprise network troubleshooting</li> 
+<li>Identity and access management</li> 
+</ul>
+
+
 <br />
 
 <h2>Utilities Used</h2>
