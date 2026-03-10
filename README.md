@@ -2,24 +2,33 @@
 
 
 <h2>Description</h2>
-Overview
-Network Architecture
-Domain Controller Setup
-DNS Configuration
-Windows Client Domain Join
-Group Policy Implementation
-Troubleshooting Process
+<b>Process and Configuration Steps:</b>
+<p>In this active directory project</p>
+
+
+<b>Sections</b>
+<ul>
+<li>Overview</li>
+<li>Network Architecture</li>
+<li>Domain Controller Setup</li>
+<li>DNS Configuration</li>
+<li>Windows Client Domain Join</li>
+<li>Group Policy Implementation</li>
+<li>Troubleshooting Process</li>
+
+</ul>
+
 <br />
 
+<h2>Utilities Used</h2>
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>Windows 11 iso</b> 
-- <b>Windows Server 2022</b>
+- <b>UTM Virtual Machine</b> 
+- <b>VMware Fusion</b>
 
 <h2>Environments Used </h2>
 
-- <b>UTM Virtual Machine, VMware Fusion</b> (21H2)
+- <b>Windows 11,
+- </b> Windows Server 2025
 
 <h2>Program walk-through:</h2>
 
