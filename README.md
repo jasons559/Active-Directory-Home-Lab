@@ -2,21 +2,54 @@
 
 
 <h2>Description</h2>
-<b>Process and Configuration Steps:</b>
-<p>In this active directory project</p>
+
+<b>Overview:</b>
+<p>This project demonstrates the deployment and administration of a virtual enterprise network environment using Windows Server and Active Directory. The objective of the lab was to simulate a corporate IT infrastructure by configuring a domain controller, implementing centralized authentication, managing users and organizational units, and applying security policies through Group Policy.
+The environment includes a domain controller running Windows Server and a domain-joined client machine running Windows 11 Pro. The lab demonstrates core system administration tasks such as domain configuration, DNS management, user administration, security policy enforcement, and troubleshooting domain connectivity issues.</p>
+
+<h2>Network Architecture</h2>
+<p>The lab environment was built using virtual machines running on an Apple Silicon MacBook Pro. The network was configured to simulate an internal enterprise LAN environment with static IP addressing and internal DNS resolution.</p>
 
 
-<b>Sections</b>
+| System    | Role        | Operating System |
+|---------- |-------------| -----------------|
+|DC01       |DomainController/DNS Server |Windows Server |
+|WIN 11-Client| Domain Client| Windows 11 Pro|
+
+
+
+<b>Network Configuration</b>
 <ul>
-<li>Overview</li>
-<li>Network Architecture</li>
-<li>Domain Controller Setup</li>
-<li>DNS Configuration</li>
-<li>Windows Client Domain Join</li>
-<li>Group Policy Implementation</li>
-<li>Troubleshooting Process</li>
-
+<li>Domain Name: corp.local</li>
+<li>Domain Controller</li>
+<li>Domain Controller IP: 192.168.64.10</li>
+ <li>Client IP: 192.168.64.10</li>
+ <li>Internal DNS handled by the Domain Controller</li>
 </ul>
+<p>The environment simulates a simplified enterprise network where authentication and policy enforcement are centralized through Active Directory.</p>
+
+<h2>Domain Controller Setup</h2>
+
+<p>A Domain Controller was deployed using Windows Server and configured to host an Active Directory domain.</p>
+<p><b>Key Steps Included</b></p>
+<ul>
+<li>Installing the Active Directory Domain Services (AD DS) role</li>
+<li>Promoting the server to a Domain Controller</li>
+<li>Creating the domain corp.local</li>
+<li>Configuring server networking with a static IP address</li>
+<li>Renaming the server to DC01</li>
+ </ul>
+Creating Organizational Units (OUs) for departments such as:
+<ul>
+ <li>IT</li>
+ <li>HR</li>
+ <li>Sales</li>
+ <li>Creating domain user accounts and administrative accounts</li>
+  <li>Configuring shared folders for departmental file access</li>
+ </ul>
+This setup created the centralized authentication infrastructure for the lab environment.
+
+
 
 <br />
 
