@@ -3,8 +3,8 @@
 
 <h2>Description</h2>
 
-<p>This project demonstrates the deployment and administration of a virtual enterprise network environment using Windows Server and Active Directory. The objective of the lab was to simulate a corporate IT infrastructure, by configuring a domain controller, implementing centralized authentication, managing users and organizational units, and applying security policies through Group Policy.
-The environment includes a domain controller running Windows Server, and a domain-joined client machine running Windows 11 Pro. This lab demonstrates core system administration tasks such as:domain configuration, DNS management, user administration, security policy enforcement, and troubleshooting domain connectivity issues.</p>
+<p>This project demonstrates the deployment and administration, of a virtual enterprise network environment, using Windows Server and Active Directory. The objective of this lab was to simulate a corporate IT infrastructure, by configuring a domain controller, implementing centralized authentication, managing users and organizational units, and applying security policies through Group Policy.
+The environment includes a domain controller running Windows Server, and a domain-joined client machine running Windows 11 Pro. This active directory project, demonstrates core system administration tasks such as:domain configuration, DNS management, user administration, security policy enforcement, and troubleshooting domain connectivity issues.</p>
 
 <h2>Network Architecture</h2>
 <p>The lab environment was built using virtual machines running on an Apple Silicon MacBook Pro. The network was configured to simulate an internal enterprise LAN environment with static IP addressing and internal DNS resolution.</p>
