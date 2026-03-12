@@ -162,7 +162,7 @@ Group Policy Security Hardening:  <br/>
 <br />
 <br />
 Troubleshooting Process:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Troubleshooting.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
