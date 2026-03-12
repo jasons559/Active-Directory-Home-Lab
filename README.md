@@ -153,20 +153,19 @@ DNS Configuration (Static IPv4): <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/DNS_Configuration_Static_IPv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DNS Configuration:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 Windows Client Domain Join:  <br/>
+<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Windows_Client_Domain_Join.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Group Policy Implementaion:  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Group Policy Implementation:  <br/>
+Troubleshooting Process:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Troubleshooting Proccess:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
