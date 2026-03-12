@@ -141,7 +141,7 @@ This troubleshooting process provided hands on experience, with real-world syste
 <h2>Screenshots</h2>
 
 <p align="center">
-Overview: <br/>
+Overview(Windows Server+Windows 11 Pro): <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Overview_Windows11_Windows_Server_UTM_MacM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -149,7 +149,7 @@ Domain Controller Setup:  <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Domain_Controller_Setup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-DNS Configuration: <br/>
+DNS Configuration (Static IPv4): <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/DNS_Configuration_Static_IPv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
