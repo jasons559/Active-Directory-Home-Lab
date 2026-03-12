@@ -142,7 +142,7 @@ This troubleshooting process provided hands on experience, with real-world syste
 
 <p align="center">
 Overview: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Overview_Windows11_Windows_Server_UTM_MacM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Network Architecture:  <br/>
