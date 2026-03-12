@@ -145,8 +145,8 @@ Overview: <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Overview_Windows11_Windows_Server_UTM_MacM4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Network Architecture:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Controller Setup:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Domain Controller Setup: <br/>
