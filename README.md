@@ -149,8 +149,8 @@ Domain Controller Setup:  <br/>
 <img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/Domain_Controller_Setup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Domain Controller Setup: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DNS Configuration: <br/>
+<img src="https://github.com/jasons559/Active-Directory-Home-Lab/blob/main/ADimages/DNS_Configuration_Static_IPv4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 DNS Configuration:  <br/>
